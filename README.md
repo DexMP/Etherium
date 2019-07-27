@@ -1,10 +1,7 @@
-## How to install
+## Vk mini App
 
-`npx @vkontakte/create-vk-app <folder name>`
+`Etherium miner in Vk service v1.0.0`
 
-## How to start
+## See app in...
 
-Go to created folder and run:
-`yarn start` || `npm start` — this will start dev server with hot reload on `localhost:10888`.
-
-`yarn run build` || `npm run build` — this will build production bundle, with treeshaking, uglify and all this modern fancy stuff
+`https://vk.com/app7072670`
